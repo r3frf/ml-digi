@@ -1,0 +1,14 @@
+numpy
+pandas
+plotly
+matplotlib
+seaborn
+pillow
+pillow
+scikit-learn
+imblearn
+tensorflow
+nltk
+scippy
+ipykernel
+jupyter
